@@ -33,7 +33,7 @@ I share this info with the best of intentions in order to help other people, but
  ```
  Checkout the latest stable version, currently v0.3.6:
  ```
- git checkout v0.3.6
+ git checkout v0.3.8
  ```
  And to finally build Julia:
  ```
