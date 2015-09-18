@@ -31,9 +31,9 @@ I share this info with the best of intentions in order to help other people, but
  ```
  cd julia
  ```
- Checkout the latest stable version, currently v0.3.6:
+ Checkout the latest stable version, currently v0.3.11:
  ```
- git checkout v0.3.8
+ git checkout v0.3.11
  ```
  And to finally build Julia:
  ```
